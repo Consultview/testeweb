@@ -77,7 +77,7 @@
 <img src="/home/scorpion/github/testeweb/img/car.jpg" alt="some text" width=300 height=200>
 
 
- -->
+ ->
  
  
  
