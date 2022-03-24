@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="pt-br">
 <html lang="en">
 <head>
@@ -5,28 +6,34 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
+<!--	
   <link rel="stylesheet" type="text/css" href="teste.css" />
   <link rel="stylesheet" href="//code.jquery.com/hemes/base/jquery-ui.css">
   <link rel="stylesheet" href="/resources/demos/style.css">
   <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
   <script src="https://code.jquery.com/ui/1.13.1/jquery-ui.js"></script>
  
-  
 
 
+  <script>
+  $( function() {
+    $( "#dialog" ).dialog();
+  } );
+  </script>
+
+--!>
 <title>JACKSON LIMA</title>
 
- 
 
 </head>
 
 
+#teste de conteudo
 
-<body>
-	
-	
-	###teste de pagina 
 <!--
+<body>
+
+
 <nav id="my">
             <ul>
               <li><a href="#">Inicial</a></li>
@@ -43,7 +50,7 @@
             <article id="artigo2" >
                <p>Um conteudo qualquer.</p>
              </article>
-             
+             <h1> Lucas fodao kkk</h1>
             <footer id="artigo3">
               <p>Por Luis</p>
             </footer>           
@@ -79,7 +86,7 @@
 <img src="/home/scorpion/github/testeweb/img/car.jpg" alt="some text" width=300 height=200>
 
 
- -->
+ 
  
  
  
@@ -87,7 +94,7 @@
 </body>
 
 
-
+--!>
 
 
 
