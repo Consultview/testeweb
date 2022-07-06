@@ -18,7 +18,7 @@ ACELMO MOREIRA
 
 
 <body>
-<h1> ANCELMO A LENDA 
+<h1> Diego Silva
 
 
 FELIZ ANIVERSARIO BOY !
@@ -28,7 +28,7 @@ QUE DEUS TE DÊ SAUDE E MUITOS ANOS DE VIDA
 
 <p align="center">"
     
-  <img width="400" heigth="300" src="ancelmo.jpg">
+  <img width="400" heigth="300" src="">
   
        </p>
        
